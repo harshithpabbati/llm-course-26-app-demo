@@ -1,0 +1,202 @@
+/* Markdown 内容样式 */
+.markdown-content {
+  color: var(--foreground);
+  font-size: 0.875rem;
+  line-height: 1.75;
+  /* 文本换行控制 - 防止长单词和URL溢出 */
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* 标题样式 */
+.markdown-content h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+
+.markdown-content h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.markdown-content h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.markdown-content h4 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.4;
+}
+
+/* 段落样式 */
+.markdown-content p {
+  margin-bottom: 0.75rem;
+  line-height: 1.75;
+}
+
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* 列表样式 */
+.markdown-content ul,
+.markdown-content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.markdown-content ul {
+  list-style-type: disc;
+}
+
+.markdown-content ol {
+  list-style-type: decimal;
+}
+
+.markdown-content li {
+  margin-bottom: 0.25rem;
+  line-height: 1.75;
+}
+
+.markdown-content li > p {
+  margin-bottom: 0.25rem;
+}
+
+/* 嵌套列表 */
+.markdown-content ul ul,
+.markdown-content ol ul,
+.markdown-content ul ol,
+.markdown-content ol ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+/* 引用块 */
+.markdown-content blockquote {
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  color: var(--muted-foreground);
+}
+
+.markdown-content blockquote > p {
+  margin-bottom: 0.5rem;
+}
+
+/* 代码样式 */
+.markdown-content code {
+  background-color: var(--muted);
+  color: var(--primary);
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-family: var(--font-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+.markdown-content pre {
+  background-color: var(--muted);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+}
+
+.markdown-content pre code {
+  background-color: transparent;
+  padding: 0;
+  color: inherit;
+  font-size: 0.875rem;
+}
+
+/* 链接样式 */
+.markdown-content a {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+.markdown-content a:hover {
+  color: var(--primary) / 80;
+}
+
+/* 分割线 */
+.markdown-content hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 1.5rem 0;
+}
+
+/* 表格样式 */
+.markdown-content table {
+  width: max-content;
+  min-width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.markdown-content th {
+  background-color: var(--muted);
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.markdown-content td {
+  border: 1px solid var(--border);
+  padding: 0.5rem 1rem;
+}
+
+/* 图片样式 */
+.markdown-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+/* 强调样式 */
+.markdown-content strong {
+  font-weight: 700;
+}
+
+.markdown-content em {
+  font-style: italic;
+}
+
+/* 删除线 */
+.markdown-content del {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+/* 任务列表 */
+.markdown-content input[type='checkbox'] {
+  margin-right: 0.5rem;
+}
+
+/* 确保第一个元素没有上边距 */
+.markdown-content > *:first-child {
+  margin-top: 0;
+}
+
+/* 确保最后一个元素没有下边距 */
+.markdown-content > *:last-child {
+  margin-bottom: 0;
+}
