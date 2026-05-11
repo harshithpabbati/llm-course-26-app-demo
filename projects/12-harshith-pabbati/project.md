@@ -1,8 +1,9 @@
 ---
 slug: 12-harshith-pabbati
-title: Answerify: AI-Powered Customer Support Platform
+title: "Answerify: AI-Powered Customer Support Platform"
 students:
   - Harshith Pabbati
+featuredEligible: true
 tags:
   - customer-support
   - ai
@@ -19,10 +20,9 @@ semester: "Spring 2026"
 shortTitle: "Answerify"
 studentId: "117383449"
 videoUrl: "https://drive.google.com/file/d/1_cdhe749LqFsq1arTy96DwXHzbHlFUXQ/view?usp=drive_link"
-thumbnail: "https://drive.google.com/file/d/1yze3KINoGDmTrUFJFpE3ZUf0gdlYKLny/view?usp=drive_link"
+thumbnail: /thumbnails/12-harshith-pabbati.png
 githubUrl: "https://github.com/harshithpabbati/answerify"
 ---
-
 ## Problem
 
 Customer support teams lose time answering repetitive emails, searching scattered documentation, and manually triaging tickets. For small and scaling teams, keeping up with high ticket volumes is overwhelming, leading to slower responses and inconsistent quality. Outsourcing routine replies to AI risks ungrounded, hallucinated responses that break customer trust.
@@ -50,7 +50,7 @@ Answerify is an AI support workspace that connects to your documentation, prior 
 - **MCP Tool Augmentation:** Before replying, queries external MCP servers for up-to-date business data (orders, subscriptions, etc.).
 - **Learning loop:** Human-approved replies are indexed and re-embedded, so repeated issues get better answers over time.
 
-## Tech Stack
+## Tools
 
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Radix UI, Tiptap
 - **Backend:** Next.js App Router, Supabase (Postgres + Realtime + Row Level Security, PLpgSQL for triggers/rules), Cloudflare Email Routing, Google Gemini 2.5 Flash (LLM), Gemini Embeddings, MCP integration
