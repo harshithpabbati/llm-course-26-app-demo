@@ -1,5 +1,5 @@
 ---
-slug: custiq-360-fnu-swati
+slug: 10-fnu-swati
 title: CustIQ 360° — Customer Intelligence Platform
 students:
   - FNU SWATI
@@ -19,11 +19,9 @@ semester: "Spring 2026"
 shortTitle: "CustIQ 360°"
 studentId: "116778659"
 videoUrl: https://drive.google.com/file/d/1pyVciqZ2m9XH-MMB2E39MWU_JwLVi6wy/view?usp=drive_link
-thumbnail: https://drive.google.com/file/d/1r2VoVUW_2dykKAhsyI92d1bUBkBgOWsk/view?usp=drive_link
+thumbnail: /thumbnails/10-fnu-swati.png
 githubUrl: https://github.com/Swati2310/CustIQ-360
 ---
-
-
 ## Problem
 
 Relationship Managers in banks navigate multiple disconnected core banking modules — CASA (accounts), Lending, Wealth Management, and KYC — spread across different menus and systems. This results in 30+ minutes per customer lookup, missed cross-sell opportunities, delayed KYC onboarding from manual data entry, and no proactive intelligence. RMs react instead of anticipate.
