@@ -29,7 +29,7 @@ videoUrl: "https://drive.google.com/file/d/192tbcyevu4LdEVng_V4A-CWE5McyFzp_/vie
 
 thumbnail: "https://drive.google.com/file/d/1gdPYQtnrtYV9hOIMG9Q20Npz8GBgifVb/view?usp=drive_link"
 
-githubUrl: "https://github.com/rutikakadam/decoding_sas_project"
+githubUrl: "https://github.com/RutikaKadam10/decoding_sas_project"
 ---
 
 
