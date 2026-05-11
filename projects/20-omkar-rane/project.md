@@ -15,8 +15,8 @@ semester: "Spring 2026"
 
 shortTitle: "DiffScribe"
 studentId: "116599159"
-videoUrl: https://drive.google.com/file/d/1a3uonsx-wxIhA03DKlFCESvjv6cjKKVc/view?usp=drive_link
-thumbnail: /thumbnails/20-omkar-rane.jpg
+videoUrl: "https://drive.google.com/file/d/1a3uonsx-wxIhA03DKlFCESvjv6cjKKVc/view?usp=drive_link"
+thumbnail: "https://drive.google.com/file/d/1IkqDroKG_2HqcNZcFVyD9P-ch8Grci4F/view?usp=drive_link"
 githubUrl: https://github.com/omkarrane30
 ---
 
