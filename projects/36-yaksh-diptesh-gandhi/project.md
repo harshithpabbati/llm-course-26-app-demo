@@ -1,4 +1,4 @@
-﻿---
+---
 slug: 36-yaksh-diptesh-gandhi
 title: SCOUT
 students:
@@ -15,10 +15,9 @@ semester: "Spring 2026"
 shortTitle: "SCOUT"
 studentId: "116932822"
 videoUrl: "https://drive.google.com/file/d/1ET6lMdRsIByUXpFnxcuHAA6-V56z9E4w/view?usp=sharing"
-thumbnail: "https://drive.google.com/file/d/1ts2EZMegIVVkiFKq6rgRGt7ZZjCAd530/view?usp=sharing"
+thumbnail: /thumbnails/36-yaksh-diptesh-gandhi.png
 githubUrl: "https://github.com/yaksh1/SCOUT"
 ---
-
 ## Problem
 
 Many document-Q&A tools are cloud-dependent, hard to customize with personal model providers, or require Docker-heavy setup that slows down onboarding for students and independent learners.
@@ -47,4 +46,3 @@ SCOUT is a local-first Electron application that lets users import documents, bu
 - **Database:** SQLite, Drizzle ORM
 - **Vector Search:** sqlite-vec
 - **Document Parsing:** pdfjs-dist, mammoth, officeparser
-
