@@ -26,12 +26,10 @@ studentId: "107265287"
 
 videoUrl: "https://drive.google.com/file/d/1oK3NtVgKKjW3QtTHOAMQYeFpPDtRrHoN/view?usp=share_link"
 
-thumbnail: "https://drive.google.com/file/d/1oK3NtVgKKjW3QtTHOAMQYeFpPDtRrHoN/view?usp=share_link"
+thumbnail: /thumbnails/33-talha-khan.png
 
 githubUrl: ""
 ---
-
-
 ## Problem
 
 A large portion of modern work happens inside the browser, where users often juggle multiple projects, tasks, and research threads at the same time. Browser tabs and tab groups are usually organized by window or chronology, not by the actual project or task they belong to. As a result, returning to unfinished work, preserving context, and switching between tasks becomes fragmented and inefficient.
