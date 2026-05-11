@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "name": "Chicken Drumsticks",
+      "quantity": "1 unit",
+      "expiry_date": "2026-03-25",
+      "category": "meat",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 3
+    },
+    {
+      "name": "DRUMSTICK KK",
+      "quantity": "unknown",
+      "expiry_date": "2026-03-25",
+      "category": "meat",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 3
+    },
+    {
+      "name": "Banana Cavendish",
+      "quantity": "0.442kg",
+      "expiry_date": "2026-03-27",
+      "category": "fruit",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 5
+    },
+    {
+      "name": "Bananas",
+      "quantity": "1.92 lb",
+      "expiry_date": "2026-03-27",
+      "category": "fruit",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 5
+    },
+    {
+      "name": "Strawberries",
+      "quantity": "114 units",
+      "expiry_date": "2026-03-27",
+      "category": "fruit",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 5
+    },
+    {
+      "name": "Zucchini Green",
+      "quantity": "0.778kg",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Peas Snow",
+      "quantity": "0.218kg",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Bread",
+      "quantity": "1 unit",
+      "expiry_date": "2026-03-29",
+      "category": "grain",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Broccoli",
+      "quantity": "0.808kg",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Tomatoes Grape",
+      "quantity": "1 unit",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Romaine Hearts",
+      "quantity": "1 unit",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "SMILES",
+      "quantity": "unknown",
+      "expiry_date": "2026-03-29",
+      "category": "other",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Tomato",
+      "quantity": "0.225 kg",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Scallions",
+      "quantity": "1 unit",
+      "expiry_date": "2026-03-29",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 7
+    },
+    {
+      "name": "Lettuce Iceberg",
+      "quantity": "1 unit",
+      "expiry_date": "2026-04-01",
+      "category": "vegetable",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 10
+    },
+    {
+      "name": "SPAGHETTI",
+      "quantity": "unknown",
+      "expiry_date": "2027-03-22",
+      "category": "grain",
+      "added_on": "2026-03-22",
+      "days_until_expiry": 365
+    }
+  ],
+  "last_updated": "2026-03-22T22:22:26"
+}
