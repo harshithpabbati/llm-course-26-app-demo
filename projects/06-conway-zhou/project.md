@@ -14,11 +14,9 @@ semester: "Spring 2026"
 shortTitle: ""
 studentId: "117258833"
 videoUrl: https://drive.google.com/file/d/1y8MSzpYEitO9rZBOpnOPLDnNAA21qJZs/view?usp=drive_link
-thumbnail: https://drive.google.com/file/d/1TqPpNXJJ25Te7TanK_XVTIXHHmlWATEE/view?usp=drive_link
+thumbnail: /thumbnails/06-conway-zhou.jpg
 githubUrl: https://github.com/conzh345
 ---
-
-
 ## Problem
 
 Desktops can get cluttered very easily, especially for busy people. As such, it can get difficult to search for the correct files, or even delete files that are no longer needed. Sorting can take a very long time, as well.
