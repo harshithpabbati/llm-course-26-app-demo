@@ -4,11 +4,14 @@ title: FridgeRAG_Smart_Fridge_Recipe_Assistant
 students:
   - Sanskruti Dhananjay Deshmukh
 tags:
-  - demo
-  - example
-  - preview
+  - rag
+  - recipe
+  - food
+  - fastapi
+  - groq
+  - gemini
 category: other
-tagline: An example project to preview the showcase site layout.
+tagline: A RAG-powered assistant that tracks your fridge inventory and suggests recipes based on what you have.
 featuredEligible: true
 
 semester: "Spring 2026"
